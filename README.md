@@ -1,4 +1,9 @@
 # 📈 Stock Market Research Agent
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-Stock%20Data-purple?logo=yahoo)](https://finance.yahoo.com/)
+[![NewsAPI](https://img.shields.io/badge/NewsAPI-Headlines-orange?logo=news)](https://newsapi.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Sentiment%20Models-yellow?logo=huggingface)](https://huggingface.co/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)](https://streamlit.io/)
 
 A powerful Streamlit web application that combines real-time stock data with AI-powered news sentiment analysis to help investors make informed decisions.
 
