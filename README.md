@@ -124,13 +124,4 @@ This tool is for educational and research purposes only. It does not constitute 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Yahoo Finance](https://finance.yahoo.com/) for stock data
-- [NewsAPI](https://newsapi.org/) for news headlines
-- [Hugging Face](https://huggingface.co/) for sentiment analysis models
-- [Streamlit](https://streamlit.io/) for the web framework
-
----
-
 **Made with ❤️ and Python**
